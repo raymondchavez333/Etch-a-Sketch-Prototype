@@ -6,13 +6,16 @@
 }
 
 .box {
-
+    width: 5px;
+    height: 5px;
+    border-style: solid;
+    border-color: black;
 }
 
 .horizontal1 {
-
+    display: flex;
 }
 
 .horizontal2 {
-
+    display: flex;
 }
