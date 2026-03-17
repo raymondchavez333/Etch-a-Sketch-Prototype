@@ -1,7 +1,8 @@
 .container {
     width: 500px;
     height: 500px;
-    
+    display: flex;
+    flex-direction: column;
 }
 
 .box {
@@ -9,6 +10,7 @@
     height: 5px;
     border-style: solid;
     border-color: black;
+    flex-grow: 1;
 }
 
 .horizontal1 {
@@ -18,5 +20,5 @@
 
 .horizontal2 {
     display: flex;  
-   
+    
 }
