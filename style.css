@@ -13,8 +13,10 @@
 
 .horizontal1 {
     display: flex;
+    flex-grow: 1;
 }
 
 .horizontal2 {
     display: flex;  
+    flex-grow: 1;
 }
