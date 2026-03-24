@@ -3,6 +3,7 @@
     height: 500px;
     display: flex;
     flex-direction: column;
+    
 }
 
 .box {
@@ -13,12 +14,3 @@
     flex-grow: 1;
 }
 
-.horizontal1 {
-    display: flex;
-    
-}
-
-.horizontal2 {
-    display: flex;  
-    
-}
