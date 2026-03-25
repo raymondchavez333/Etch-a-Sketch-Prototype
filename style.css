@@ -8,10 +8,10 @@
 }
 
 .box {
-    /* width: 5px;
-    height: 5px; */
+    width: 125px;
+    height: 125px; 
     border-style: solid;
     border-color: black;
-    flex-grow: 1;
+    /* flex-grow: 1; */
 }
 
