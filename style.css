@@ -2,17 +2,16 @@
     width: 600px;
     height: 600px;
     display: flex;
-    flex-wrap: wrap;
-    /* flex-direction: column; */
-    margin: 0;
+    flex-wrap:wrap;
+    gap: 0;
+    
 }
 
 .box {
     width: 250px;
-    height: 250px; 
+    height: auto;
     border-style: solid;   
     border-color: black;
-    /* border: 1px; */
-    /* flex-grow: 1; */
+    flex-grow: 1;
 }
 
