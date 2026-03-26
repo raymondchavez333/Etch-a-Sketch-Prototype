@@ -12,6 +12,7 @@
     height: 250px; 
     border-style: solid;
     border-color: black;
+    border: 1px;
     /* flex-grow: 1; */
 }
 
